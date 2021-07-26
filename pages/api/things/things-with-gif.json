@@ -1,0 +1,39 @@
+{
+  "things": [
+    {
+      "id": 1,
+      "name": "Beer",
+      "gif": "lTGLOH7ml3poQ6JoFg"
+    },
+    {
+      "id": 2,
+      "name": "GraphQL",
+      "gif": "nvb74G5HEcQhoah9Hv"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "gif": "xT9IgzoKnwFNmISR8I"
+    },
+    {
+      "id": 4,
+      "name": "Fly fishing",
+      "gif": "QM5GJO6J8lDfa"
+    },
+    {
+      "id": 5,
+      "name": "The office",
+      "gif": "wqbAfFwjU8laXMWZ09"
+    },
+    {
+      "id": 6,
+      "name": "Our new amazing office",
+      "gif": "rVVFWyTINqG7C"
+    },
+    {
+      "id": 7,
+      "name": "Shopping on amazon and feeling guilty",
+      "gif": "lKS8hg5JnmjcehBAaX"
+    }
+  ]
+}

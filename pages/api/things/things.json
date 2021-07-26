@@ -1,0 +1,32 @@
+{
+  "things": [
+    {
+      "id": 1,
+      "name": "Beer"
+    },
+    {
+      "id": 2,
+      "name": "GraphQL"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "Fly fishing"
+    },
+    {
+      "id": 5,
+      "name": "The office"
+    },
+    {
+      "id": 6,
+      "name": "Our new amazing office"
+    },
+    {
+      "id": 7,
+      "name": "Shopping on amazon and feeling guilty"
+    }
+  ]
+}

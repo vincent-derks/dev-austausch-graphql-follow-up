@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "APOLLO_KEY=service:Dev-Austausch-GraphQL-Demo-4zs7oc:zS3O3Pl-MW2EWrxTiGUaQA APOLLO_GRAPH_ID=Dev-Austausch-GraphQL-Demo-4zs7oc APOLLO_GRAPH_VARIANT=current APOLLO_SCHEMA_REPORTING=true next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.3.21",
+    "@giphy/js-fetch-api": "^4.0.3",
+    "apollo-server-micro": "^3.0.2",
+    "dataloader": "^2.0.0",
+    "graphql": "^15.5.1",
+    "micro": "^9.3.4",
     "next": "11.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
